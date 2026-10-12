@@ -8,7 +8,6 @@ A lightweight, browser-based CSV viewer that lets you explore and analyze your d
 - 🔍 **Search & filter** across all columns in real-time
 - 📊 **Sort data** by clicking column headers
 - 📄 **Paginate** through large datasets (25, 50, 100, or 250 rows per page)
-- 🔒 **100% private** – All data stays in your browser, nothing is uploaded
 - 🎯 **No installation needed** – Works in any modern web browser
 - ⚡ **Fast & responsive** – Built with vanilla JavaScript and optimized performance
 
