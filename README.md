@@ -28,10 +28,12 @@ cd Read_CSV
 ## 📸 Screenshots
 
 ### Before Upload
-![Before Upload](./screenshots/before-upload.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a14b570-e4a6-4743-b0f3-80df28e9c7a3" />
+
 
 ### After Upload
-![After Upload](./screenshots/after-upload.png)
+<img width="1853" height="931" alt="image" src="https://github.com/user-attachments/assets/c661298d-6cb0-44d4-975b-8808bd58b15c" />
+
 
 ## 🎨 How to Use
 
