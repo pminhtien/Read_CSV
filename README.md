@@ -71,14 +71,6 @@ cd Read_CSV
 
 This project was created using **GitHub Copilot** – AI-powered code generation that accelerates development. The entire UI, CSV parsing logic, and table management were built with Copilot's assistance, demonstrating the power of AI-driven development workflows.
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements!
-
-## 📝 License
-
-No license used
-
 ---
 
 **Start exploring your CSV files instantly – no download required!** 🎉
